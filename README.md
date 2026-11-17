@@ -10,12 +10,15 @@ I'm a Workflow Architect at [Rezolve.ai](https://rezolve.ai), where I build LLM 
 - [showdown-bw2](https://github.com/LuciPengu/showdown-bw2): a Chrome extension that plays your Pokémon Showdown Gen 5 battles inside Pokémon Black 2, running in an emulator in the page.
 - [bringfour](https://github.com/LuciPengu/bringfour): an MCP server and dashboard that give an AI assistant real VGC usage stats and calc-backed threat analysis.
 - [stands](https://github.com/LuciPengu/stands): JoJo-style stands for Minecraft Paper servers. 22 stands with animated models, and players need no mods.
+- [memory-aid](https://github.com/LuciPengu/memory-aid): a memory aid for seniors. It records a conversation, works out who said what, and lets the person ask about it later.
+
+I'm also co-founder and CTO of HitSmart, which makes AI recovery tools for contact-sport athletes.
 
 ## Hackathons
 
-- **YC AI Hackathon, Enterprise Agents track (won):** Zigsaw, an agentic marketing-content platform built on Browser Use. Built with J. Luis Sanchez and Shubhankar Tripathy.
-- **Sacramento's first AWS hackathon (1st place):** PROMO IQ, a RAG-based market research tool. Built with Ved Patel, Cheryl Cheung and Jai Puli.
-- **IBM Good Tech Scholar program (1st place):** [Shanthi](https://github.com/srikondapalli1/Shanthi), a mental health app built with Svelte, Flask and Watson NLP.
+- My team won the Enterprise Agents track at the YC AI Hackathon with Zigsaw, an agentic marketing-content platform built on Browser Use. I built it with J. Luis Sanchez and Shubhankar Tripathy.
+- We took 1st place at Sacramento's first AWS hackathon with PROMO IQ, a RAG-based market research tool. That team was Ved Patel, Cheryl Cheung, Jai Puli and me.
+- [Shanthi](https://github.com/srikondapalli1/Shanthi), a mental health app built with Svelte, Flask and Watson NLP, won 1st place in IBM's Good Tech Scholar program.
 
 ## What I work with
 
